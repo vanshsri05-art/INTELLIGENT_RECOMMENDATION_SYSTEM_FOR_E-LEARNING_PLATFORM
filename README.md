@@ -405,13 +405,19 @@ You can also use another Student ID available in `data/students.csv`.
 
 ### Student Dashboard
 
-![Student Dashboard](docs/dashboard.png)
+## Dashboard Preview
+
+![E-Learning Recommendation Dashboard](docs/dashboard.png)
 
 ### Model Performance
 
-![Precision Chart](docs/precision_at_5.png)
+### Precision@5 Comparison
 
-![Recall Chart](docs/recall_at_5.png)
+![Precision@5 Comparison](docs/precision_at_5.png)
+
+### Recall@5 Comparison
+
+![Recall@5 Comparison](docs/recall_at_5.png)
 
 ---
 
