@@ -1,0 +1,6 @@
+student_id,course_id,progress,status
+STU0001,C011,50,In Progress
+STU0004,C007,100,Completed
+STU0001,C010,0,Started
+STU0002,C010,0,Started
+STU0002,C011,0,Started
