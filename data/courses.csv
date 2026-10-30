@@ -1,0 +1,51 @@
+course_id,course_name,category,level,description,rating
+C001,Python Basics,Programming,Beginner,"Learn python basics through practical lessons, examples, and exercises.",3.9
+C002,Advanced Python,Programming,Advanced,"Learn advanced python through practical lessons, examples, and exercises.",4.9
+C003,Pandas for Data Science,Data Science,Beginner,"Learn pandas for data science through practical lessons, examples, and exercises.",4.6
+C004,NumPy Fundamentals,Data Science,Beginner,"Learn numpy fundamentals through practical lessons, examples, and exercises.",4.2
+C005,Data Visualization with Matplotlib,Data Science,Beginner,"Learn data visualization with matplotlib through practical lessons, examples, and exercises.",4.0
+C006,Data Visualization with Seaborn,Data Science,Intermediate,"Learn data visualization with seaborn through practical lessons, examples, and exercises.",4.8
+C007,SQL Fundamentals,Database,Beginner,"Learn sql fundamentals through practical lessons, examples, and exercises.",4.5
+C008,Advanced SQL,Database,Advanced,"Learn advanced sql through practical lessons, examples, and exercises.",4.4
+C009,Statistics for Data Science,Data Science,Intermediate,"Learn statistics for data science through practical lessons, examples, and exercises.",4.9
+C010,Machine Learning Fundamentals,AI,Intermediate,"Learn machine learning fundamentals through practical lessons, examples, and exercises.",4.7
+C011,Machine Learning with Python,AI,Intermediate,"Learn machine learning with python through practical lessons, examples, and exercises.",4.0
+C012,Deep Learning,AI,Advanced,"Learn deep learning through practical lessons, examples, and exercises.",4.2
+C013,Natural Language Processing,AI,Advanced,"Learn natural language processing through practical lessons, examples, and exercises.",4.1
+C014,Computer Vision,AI,Advanced,"Learn computer vision through practical lessons, examples, and exercises.",4.7
+C015,Generative AI,AI,Advanced,"Learn generative ai through practical lessons, examples, and exercises.",3.8
+C016,Artificial Intelligence Basics,AI,Beginner,"Learn artificial intelligence basics through practical lessons, examples, and exercises.",4.5
+C017,Scikit-learn Practical Guide,AI,Intermediate,"Learn scikit-learn practical guide through practical lessons, examples, and exercises.",4.7
+C018,TensorFlow for Beginners,AI,Beginner,"Learn tensorflow for beginners through practical lessons, examples, and exercises.",4.9
+C019,PyTorch Fundamentals,AI,Intermediate,"Learn pytorch fundamentals through practical lessons, examples, and exercises.",4.2
+C020,Power BI for Beginners,Data Analytics,Beginner,"Learn power bi for beginners through practical lessons, examples, and exercises.",4.8
+C021,Tableau Data Visualization,Data Analytics,Intermediate,"Learn tableau data visualization through practical lessons, examples, and exercises.",3.9
+C022,Excel for Data Analysis,Data Analytics,Beginner,"Learn excel for data analysis through practical lessons, examples, and exercises.",4.8
+C023,R Programming,Data Analytics,Intermediate,"Learn r programming through practical lessons, examples, and exercises.",4.0
+C024,JavaScript Basics,Web Development,Beginner,"Learn javascript basics through practical lessons, examples, and exercises.",4.3
+C025,Advanced JavaScript,Web Development,Advanced,"Learn advanced javascript through practical lessons, examples, and exercises.",4.8
+C026,HTML and CSS,Web Development,Beginner,"Learn html and css through practical lessons, examples, and exercises.",4.0
+C027,React JS,Web Development,Intermediate,"Learn react js through practical lessons, examples, and exercises.",4.1
+C028,Node.js,Web Development,Intermediate,"Learn node.js through practical lessons, examples, and exercises.",4.7
+C029,Full Stack Web Development,Web Development,Advanced,"Learn full stack web development through practical lessons, examples, and exercises.",4.7
+C030,Django Web Development,Web Development,Intermediate,"Learn django web development through practical lessons, examples, and exercises.",4.6
+C031,Flask Web Development,Web Development,Intermediate,"Learn flask web development through practical lessons, examples, and exercises.",4.6
+C032,Cybersecurity Fundamentals,Web Development,Beginner,"Learn cybersecurity fundamentals through practical lessons, examples, and exercises.",4.5
+C033,Ethical Hacking Basics,Cybersecurity,Intermediate,"Learn ethical hacking basics through practical lessons, examples, and exercises.",4.1
+C034,Network Security,Cybersecurity,Intermediate,"Learn network security through practical lessons, examples, and exercises.",4.2
+C035,Cloud Computing Basics,Cybersecurity,Beginner,"Learn cloud computing basics through practical lessons, examples, and exercises.",4.0
+C036,AWS Fundamentals,Cloud,Beginner,"Learn aws fundamentals through practical lessons, examples, and exercises.",4.9
+C037,Azure Fundamentals,Cloud,Beginner,"Learn azure fundamentals through practical lessons, examples, and exercises.",4.5
+C038,DevOps Fundamentals,Cloud,Intermediate,"Learn devops fundamentals through practical lessons, examples, and exercises.",4.3
+C039,Docker and Kubernetes,DevOps,Intermediate,"Learn docker and kubernetes through practical lessons, examples, and exercises.",4.4
+C040,Git and GitHub,DevOps,Beginner,"Learn git and github through practical lessons, examples, and exercises.",4.9
+C041,Database Design,Programming,Intermediate,"Learn database design through practical lessons, examples, and exercises.",4.0
+C042,MongoDB Fundamentals,Database,Beginner,"Learn mongodb fundamentals through practical lessons, examples, and exercises.",4.5
+C043,Android Development,Mobile Development,Beginner,"Learn android development through practical lessons, examples, and exercises.",4.4
+C044,Flutter Development,Mobile Development,Beginner,"Learn flutter development through practical lessons, examples, and exercises.",4.5
+C045,UI/UX Design,Design,Beginner,"Learn ui/ux design through practical lessons, examples, and exercises.",3.8
+C046,Software Engineering,Software Engineering,Intermediate,"Learn software engineering through practical lessons, examples, and exercises.",4.8
+C047,Data Structures and Algorithms,Programming,Intermediate,"Learn data structures and algorithms through practical lessons, examples, and exercises.",4.9
+C048,Competitive Programming,Programming,Beginner,"Learn competitive programming through practical lessons, examples, and exercises.",4.5
+C049,C++ Programming,Programming,Intermediate,"Learn c++ programming through practical lessons, examples, and exercises.",4.6
+C050,Java Programming,Programming,Intermediate,"Learn java programming through practical lessons, examples, and exercises.",4.9
